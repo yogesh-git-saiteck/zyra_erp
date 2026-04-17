@@ -1,0 +1,12 @@
+<svg width="32" height="32" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="zyraGrad" x1="0" y1="0" x2="48" y2="48">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#zyraGrad)" />
+  <path d="M12 16h24l-10 8 10 8H12l10-8-10-8z" fill="white" opacity="0.95" />
+  <circle cx="24" cy="24" r="4" fill="white" opacity="0.6" />
+</svg>
